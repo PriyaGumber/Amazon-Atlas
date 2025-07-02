@@ -17,6 +17,9 @@ public class Task006 {
         System.out.println(" Values I received : "+ name + " " + id);
 
 
+        sc.close();
+
+
 
     
     }
